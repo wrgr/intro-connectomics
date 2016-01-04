@@ -1,13 +1,3 @@
-** Exploitable biological priors [Neuroscience, Computer Vision]
-** Validating an EM connectome [Neuroscience, Computer Vision]
-Vesicle Detection [Computer Vision]
-** Mitochondria Detection [Computer Vision]
-** Validating an MR Connectome [Neuroscience, Engineering]
-** Exploiting brain graphs – mining structure to learn new insights (might split this into two projects) [Graph Theory]
-Statistical query replication using the API [Programming, Math]
-Survey of cortical columns – are they real? [Neuroscience]
-​
-​
 | Project Title                                | Project Description                                                        | Topic           | High Interest | Group Members                                             |
 |----------------------------------------------|----------------------------------------------------------------------------|-----------------|---------------|-----------------------------------------------------------|
 | Cortical Columns Made Easy (example)         | This project will determine the existence and function of cortical columns | Neuroscience    | **            | Santiago Ramon y Cajal, Camillo Golgi, Vernon Mountcastle |
@@ -22,6 +12,6 @@ Survey of cortical columns – are they real? [Neuroscience]
 | how to go from a graph-> inference -> skynet |                                                                            | Theory          |               |                                                           |
 | vesiclePy (PEP-8)                            |                                                                            | Computer Sys    |               |                                                           |
 | Web viewer for graph data                    |                                                                            | Computer Vision |               |                                                           |
-| make your own 1                              |                                                                            | Anything!       |               |                                                           |
+| Mitochondria detection                       |                                                                            | Anything!       |               |                                                           |
+| make your own 1                              |                                                                            |                 |               |                                                           |
 | make your own 2                              |                                                                            |                 |               |                                                           |
-| make your own 3                              |                                                                            |                 |               |                                                           |
