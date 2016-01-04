@@ -7,7 +7,7 @@
 - Course Number: 600.221.13
 - Credits: 2
 - Class Meeting: Monday, Tuesday, Thursday, 2:45-6p. Malone 228.
-- Class Makeup: There will be no class on Monday, January 18th because of Martin Luther King, Jr. Day, and we will make up that class on January 20th or January 15th (tentative).
+- Class Makeup: There will be no class on Monday, January 18th because of Martin Luther King, Jr. Day, and we will make up that class on January 20th.
 - Office Hours: Upon Request
 - Prerequisites: None.  A background in neuroscience or computer programming (e.g., MATLAB, Python, R) is encouraged but not required.  Projects will be computational in nature, but we encourage you to use this as a learning opportunity.
 - Instructor: William Gray Roncal, CS PhD Candidate, JHU/APL Research Engineer. wgr@jhu.edu
