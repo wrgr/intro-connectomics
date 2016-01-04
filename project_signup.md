@@ -12,6 +12,5 @@
 | how to go from a graph-> inference -> skynet |                                                                            | Theory          |               |                                                           |
 | vesiclePy (PEP-8)                            |                                                                            | Computer Sys    |               |                                                           |
 | Web viewer for graph data                    |                                                                            | Computer Vision |               |                                                           |
-| Mitochondria detection                       |                                                                            | Anything!       |               |                                                           |
 | make your own 1                              |                                                                            |                 |               |                                                           |
 | make your own 2                              |                                                                            |                 |               |                                                           |
