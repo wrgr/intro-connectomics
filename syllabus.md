@@ -63,3 +63,5 @@ For this course, collaboration is encouraged, and referencing outside resources 
 ### Final Thoughts
 We are excited to teach you about the field of connectomics and support you however we can.  Please feel free to reach out (email is best) with questions or comments at any point.
 Opportunities to continue research in the Spring semester may be available, for the motivated student.  This will require a minimum of 15-20 hours of committed time each week, and is generally offered for credit only.
+
+### Class Links
